@@ -1,0 +1,15 @@
+--- 
+javascripts: 
+- base: 
+  - jquery-ui
+  - application
+  - effects
+  - dragdrop
+  - jquery
+  - controls
+  - jrails
+stylesheets: 
+- base: 
+  - reset-fonts-grids
+  - base-min
+  - styles
